@@ -9,3 +9,5 @@ conda env create -f environment.yml
 ```
 
 # 
+
+https://developers.google.com/optimization/scheduling/employee_scheduling#program
